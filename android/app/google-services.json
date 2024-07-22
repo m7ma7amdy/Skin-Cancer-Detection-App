@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "513278913899",
+    "project_id": "skin-cancer-9-5",
+    "storage_bucket": "skin-cancer-9-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513278913899:android:c3abf26a4d4af42284702e",
+        "android_client_info": {
+          "package_name": "com.example.skin_cancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513278913899-b3hdsue87qpk7i1l13lhhhskneajne98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxX5yLGOl3-fMQS3mqctd0iTdjKgKYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513278913899-b3hdsue87qpk7i1l13lhhhskneajne98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513278913899:android:14e2a312d83c2b7e84702e",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513278913899-b3hdsue87qpk7i1l13lhhhskneajne98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxX5yLGOl3-fMQS3mqctd0iTdjKgKYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513278913899-b3hdsue87qpk7i1l13lhhhskneajne98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
